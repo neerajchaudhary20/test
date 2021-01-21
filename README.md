@@ -25,7 +25,7 @@ Update the `auth.json` file in `./src/components/services/auth.json`  with acces
     
 ## Deploying
 
-###Install Dependencies 
+### Install Dependencies 
 
 Run `yarn install` or `npm install` on terminal to install the dependencies required
 
