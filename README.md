@@ -52,21 +52,14 @@ module.exports = {
 
 run `yarn` or `npm install`. To run the app, use `yarn dev`
 
-Application will start running at http://localhost:3000
-
+App will start running at http://localhost:3000
 
 ![](https://symbltestdata.s3.us-east-2.amazonaws.com/NeerajTest/Nextjs-Symbl-demo+Images/Nextjsphonecall.png)
 
 
-Relevant docs section:
+## Conclusion
 
-- [Getting started with Symbl](https://docs.symbl.ai/#getting-started)
-- [API overview using Postman](https://docs.symbl.ai/#postman)
-- [Authentication](https://docs.symbl.ai/#authentication)
-
-How Tos are available [here](https://docs.symbl.ai/#how-tos)
-
-In this app represented are the following
+In this app we have  represented the following capabilities of Symbl.ai
 
 - Symbl Node SDK (Check out `api/call` file)
 - REST Telephony API (`/phone` page)
@@ -76,9 +69,14 @@ In this app represented are the following
 - Async Text API (`/text` page) - Coming soon
 - Symbl react elements package available [here](https://www.npmjs.com/package/@symblai/react-elements)
 
+Relevant docs section:
 
+- [Getting started with Symbl](https://docs.symbl.ai/#getting-started)
+- [API overview using Postman](https://docs.symbl.ai/#postman)
+- [Authentication](https://docs.symbl.ai/#authentication)
 
-## Conclusion
+How Tos are available [here](https://docs.symbl.ai/#how-tos)
+
 
 ### Community
 
