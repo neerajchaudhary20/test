@@ -51,10 +51,15 @@ module.exports = {
 ```
 
 run `yarn` or `npm install`. To run the app, use `yarn dev`
+
 App will start running at http://localhost:3000
+
 ![](https://symbltestdata.s3.us-east-2.amazonaws.com/NeerajTest/Nextjs-Symbl-demo+Images/Nextjsphonecall.png)
+
 ![](https://symbltestdata.s3.us-east-2.amazonaws.com/NeerajTest/Nextjs-Symbl-demo+Images/NextJsConversationData.png)
+
 ![](https://symbltestdata.s3.us-east-2.amazonaws.com/NeerajTest/Nextjs-Symbl-demo+Images/NextJsVideo.png)
+
 Relevant docs section:
 
 - [Getting started with Symbl](https://docs.symbl.ai/#getting-started)
